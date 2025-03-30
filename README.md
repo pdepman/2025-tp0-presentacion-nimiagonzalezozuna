@@ -2,9 +2,8 @@
 
 Presentación:
 
-markdown
 
-![Foto](imagen/nimi.jpg)
+![foto](imagen/nimi.jpg)
 
 Hola!
 Mi nombre es Nimia González Ozuna, soy recursante. Por diversos motivos, no he podido seguir la materia adecuadamente, pero este año me propuse aprobarla.
