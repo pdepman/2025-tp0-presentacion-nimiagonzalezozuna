@@ -8,7 +8,7 @@ markdown
 
 Hola!
 Mi nombre es Nimia González Ozuna, soy recursante. Por varios motivos no he podido seguir la materia como debe de ser pero este año me propuse aprobar.
-Trabajo pero no relacionado con Sistemas, pero me da tiempo para las prácticas que aprovecharé porque solo se aprueba con mucchhhhasss hooooras de prácticas, al menos yooo.
+Trabajo, aunque no en el área de Sistemas, pero me da tiempo para las prácticas que aprovecharé porque solo se aprueba con mucchhhhasss hooooras de prácticas, al menos yooo.
 
 Tengo 2 hijos, el mayor este año ingreso a Ing. Mecánica(XD me pisa los talones con materias comunes),pero él cursa de dia; el otro tiene 9 años.
 
