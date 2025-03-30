@@ -12,7 +12,7 @@ Trabajo pero no relacionado con Sistemas, pero me da tiempo para las prácticas 
 
 Tengo 2 hijos, el mayor este año ingreso a Ing. Mecánica(XD me pisa los talones con materias comunes),pero él cursa de dia; el otro tiene 9 años.
 
-Les deseos a todos una buena cursada y a entender hacia donde nos llevan las distintas paradigmas.
+Les deseo a todos una buena cursada y a entender hacia donde nos llevan las distintas paradigmas.
 Legajo : 148746-2
 
 
