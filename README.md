@@ -1,7 +1,7 @@
 
 
-Presentación:
-![Yo](imagen/nimi.png)
+Presentación
+![nimi.png]
 Hola!
 Mi nombre es Nimia González Ozuna, soy recursante. Por diversos motivos, no he podido seguir la materia adecuadamente, pero este año me propuse aprobarla.
 Trabajo, aunque no en el área de Sistemas, pero me da tiempo para las prácticas que aprovecharé porque solo se aprueba con mucchhhhasss hooooras de prácticas, al menos yooo.
@@ -11,4 +11,4 @@ Tengo 2 hijos, el mayor este año ingreso a Ing. Mecánica(XD me pisa los talone
 Les deseo a todos una buena cursada.
 Legajo : 148746-2
 
-
+![foto](C:\Users\Usuario\Documents\Presentación\2025-tp0-presentacion-nimiagonzalezozuna\Imagen\nimi.png)
