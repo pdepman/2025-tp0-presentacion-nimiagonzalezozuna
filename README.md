@@ -11,4 +11,5 @@ Tengo 2 hijos, el mayor este año ingreso a Ing. Mecánica(XD me pisa los talone
 Les deseo a todos una buena cursada.
 Legajo : 148746-2
 
+![Foto](images/nimi.png)
 
